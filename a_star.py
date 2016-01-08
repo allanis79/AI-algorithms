@@ -1,7 +1,7 @@
 """
 A* algorithms to find correct word/sentence from jumbled word/sentence
 
-you can rfind more about A* from this link: http://theory.stanford.edu/~amitp/GameProgramming/
+you can find more about A* from this link: http://theory.stanford.edu/~amitp/GameProgramming/
 """
 
 
